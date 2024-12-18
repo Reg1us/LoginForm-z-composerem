@@ -1,0 +1,12 @@
+{
+    "name": "lasoc/php-login-form-main",
+    "description": ".",
+    "autoload": {
+        "psr-4": {
+            "Lasoc\\PhpLoginFormMain\\": "src/"
+        }
+    },
+    "require": {
+        "steampixel/simple-php-router": "^0.7.1"
+    }
+}
